@@ -1,0 +1,39 @@
+.logo{
+    width: 250px;
+}
+
+.container{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.recupero{
+    width: 300px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+#footerLogo{
+    width: 80px;
+    height: 80px;
+}
+
+#footer{
+    font-weight: 80;
+    font-size: medium;
+    
+}
+
+#tarjeta{
+    max-width: 600px;
+}
+
+#carrusel{
+    min-width: 600px;
+}
+
+#texto{
+    min-width: 300px;
+}
